@@ -1,0 +1,5 @@
+STARTED Test Suites/TS1
+Test Cases/TC1 PASSED
+Test Cases/TC2 FAILED
+Test Cases/TC3 PASSED
+END Test Suites/TS1
